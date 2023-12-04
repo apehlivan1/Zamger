@@ -9,7 +9,7 @@ using System.Security.Claims;
 namespace ProjectTests
 {
     [TestClass]
-    public class ExamRegistrationTests
+    public class ExamRegistrationControllerTests
     {
         private ExamRegistrationController? _controller;
         public DbContextOptions<ApplicationDbContext> _dbContextOptions;
