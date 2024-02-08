@@ -1,4 +1,4 @@
-**Projekat: Studentski informacioni sistem** 
+## Projekat: Studentski informacioni sistem
 
 **https://zamgeris.azurewebsites.net**
 
@@ -12,7 +12,7 @@ Nastavnik unosi bodove sa zadaća i ispita, a postoji i opcija izmjene već unes
 
 Studentska služba vrši dodavanje novih studenata i nastavnika u sistem, kao i obradu zahtjeva studenata za ovjerenim uvjerenjima.
 
-** Verifikacija i Validacija Softvera 23/24 **
+## Verifikacija i Validacija Softvera 23/24
 
 Prilikom testiranja korišteni su:
 - Code review kroz CodeStream
